@@ -5,7 +5,7 @@ import datetime
 import time
 from schedule import * 
 import schedule
-#The format is : scriptName.py [SourceFolder path] [replicaFolder path] [logFile path] [Number of minutes to resyncronize Folders] ^type this command in cmd^
+#The format is : scriptName.py(in this case scr.py) [SourceFolder path] [replicaFolder path] [logFile path] [Number of minutes to resyncronize Folders] ^type this command in cmd^
 # arg 1 = FOlder Destinatie 
 # arg 2 = Folder replica 
 # arg 3 = Locatie log file
